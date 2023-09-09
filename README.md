@@ -1,2 +1,2 @@
 # codingblog.github.io
-Production repo for coding blog
+Production repo for coding blog deployment
