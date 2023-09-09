@@ -1,0 +1,24 @@
+baseURL = 'https://codingblog.github.io'
+languageCode = 'en-us'
+title = 'My Coding Blog'
+theme = 'ananke'
+author = "Dhanush Raj"
+DefaultContentLanguage = "en"
+SectionPagesMenu = "main"
+Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
+enableRobotsTXT = true
+
+[params]
+  text_color = ""
+  author = "Dhanush Raj"
+  favicon = ""
+  site_logo = ""
+  description = "The last theme you'll ever need. Maybe."
+  # choose a background color from any on this page: https://tachyons.io/docs/themes/skins/ and preface it with "bg-"
+  background_color_class = "bg-black"
+  recent_posts_number = 3
+
+
+[[params.ananke_socials]]
+name = "github"
+url = "https://github.com/dhanushraj5297"
